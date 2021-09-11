@@ -1,0 +1,9 @@
+{
+  "name": "array-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jamesinaxx <61040004+jamesinaxx@users.noreply.github.com>",
+  "license": "MIT",
+  "types": "./Array.d.ts",
+  "description": "Get the last element in an array"
+}
