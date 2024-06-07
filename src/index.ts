@@ -4,6 +4,12 @@ Object.defineProperty(Array.prototype, "last", {
   },
 });
 
+declare global {
+  interface Array<T> {
+    last: T;
+  }
+}
+
 export default function last<T>(array: Array<T>): T {
   return array.last;
 }
