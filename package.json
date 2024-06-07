@@ -1,6 +1,6 @@
 {
   "name": "@maybejules/array.last",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./build/src/index.js",
   "author": "Juliette Cordor <professional@maybejules.com>",
   "license": "MIT",
