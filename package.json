@@ -1,5 +1,5 @@
 {
-  "name": "array-last",
+  "name": "@maybejules/array.last",
   "version": "1.0.0",
   "main": "./build/src/index.js",
   "author": "Juliette Cordor <professional@maybejules.com>",
