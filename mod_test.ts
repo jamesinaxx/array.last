@@ -1,5 +1,5 @@
 import { assertEquals } from "@std/assert";
-import last from "./main.ts";
+import last from "./mod.ts";
 
 Deno.test(function arrayLastMember() {
   const array = [1, 2, 3];
