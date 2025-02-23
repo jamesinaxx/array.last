@@ -6,6 +6,9 @@
   "license": "MIT",
   "types": "./types/Array.d.ts",
   "description": "Get the last element in an array",
+  "files": [
+    "build"
+  ],
   "scripts": {
     "build": "tsc",
     "clean": "rimraf build"
