@@ -1,16 +1,18 @@
 {
   "name": "array-last",
   "version": "1.0.0",
-  "main": "build/index.js",
+  "main": "./build/index.js",
   "author": "Juliette Cordor <professional@maybejules.com>",
   "license": "MIT",
-  "types": "./Array.d.ts",
+  "types": "./types/Array.d.ts",
   "description": "Get the last element in an array",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "clean": "rimraf build"
   },
   "devDependencies": {
     "@types/jest": "29.5.12",
+    "rimraf": "^5.0.7",
     "typescript": "^5.4.5"
   }
 }
