@@ -1,9 +1,13 @@
 {
-  "name": "array-end",
+  "name": "array-last",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "jamesinaxx <61040004+jamesinaxx@users.noreply.github.com>",
+  "main": "build/index.js",
+  "author": "Juliette Cordor <professional@maybejules.com>",
   "license": "MIT",
   "types": "./Array.d.ts",
-  "description": "Get the last element in an array"
+  "description": "Get the last element in an array",
+  "devDependencies": {
+    "@types/jest": "29.5.12",
+    "typescript": "^5.4.5"
+  }
 }

@@ -1,3 +1,3 @@
 interface Array<T> {
-  last(): T;
+  last: T;
 }
