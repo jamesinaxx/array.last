@@ -6,5 +6,5 @@
  * @returns The last element of the array.
  */
 export default function last<T>(array: Array<T>): T {
-  return array.last;
+  return array[array.length - 1];
 }
