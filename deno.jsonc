@@ -2,8 +2,8 @@
   "name": "@cordor/array-last",
   "version": "0.1.0",
   "exports": {
-    ".": "./mod.ts",
-    "./global": "./global.ts"
+    ".": "./mod.ts"
+    // "./global": "./global.ts"
   },
   "license": "MIT",
   "exclude": [".github", "renovate.json"],
