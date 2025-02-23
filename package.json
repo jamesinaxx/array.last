@@ -13,8 +13,10 @@
     "clean": "rimraf build"
   },
   "devDependencies": {
-    "@types/jest": "29.5.12",
-    "rimraf": "^5.0.7",
+    "@types/bun": "latest",
+    "rimraf": "^5.0.7"
+  },
+  "peerDependencies": {
     "typescript": "^5.4.5"
   }
 }
