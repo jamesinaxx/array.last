@@ -4,7 +4,6 @@
   "main": "./build/src/index.js",
   "author": "Juliette Cordor <professional@maybejules.com>",
   "license": "MIT",
-  "types": "./types/Array.d.ts",
   "description": "Get the last element in an array",
   "files": [
     "build"
