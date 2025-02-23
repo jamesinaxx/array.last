@@ -1,7 +1,7 @@
 {
   "name": "array-last",
   "version": "1.0.0",
-  "main": "./build/index.js",
+  "main": "./build/src/index.js",
   "author": "Juliette Cordor <professional@maybejules.com>",
   "license": "MIT",
   "types": "./types/Array.d.ts",
