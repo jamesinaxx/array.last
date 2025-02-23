@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "exports": "./mod.ts",
   "license": "MIT",
+  "exclude": [".github", "renovate.json"],
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
